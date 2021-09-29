@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
+// Company: RV College of Engineering
 // Engineer: 
 // 
 // Create Date: 10.08.2021 23:07:41
