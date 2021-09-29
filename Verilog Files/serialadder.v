@@ -23,7 +23,8 @@
 module serial_adder ( 
 input [7:0] A,B,
 input reset,clock,
-output [7:0] sum);
+output [7:0] sum
+);
 reg [3:0] count;
 reg s,y,Y; wire run;
 wire [7:0] qa,qb,sum;
